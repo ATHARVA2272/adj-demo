@@ -1,2 +1,3 @@
-# adj-demo
-First Repo
+# Adj-demo
+<br>
+My First GitHub Repository 
